@@ -37,5 +37,6 @@ What I Learned:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Game interface:
-https://github.com/Chuchman-Dima/Sea-Battle/blob/main/Sea-Battle/Game%20interface.png
+![](Game-interface.png)
+
 
