@@ -34,3 +34,8 @@ What I Learned:
   -> Organizing a game into stages: initialization, setup, gameplay, and ending.
   -> Basic artificial intelligence logic.
   -> Separating logic into individual modules/functions for easier code maintenance.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Game interface:
+(https://github.com/user-attachments/assets/ebcf7ff9-8a22-4069-9d5e-6ecf69d55b50)
+
